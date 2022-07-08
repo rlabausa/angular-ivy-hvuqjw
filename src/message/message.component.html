@@ -1,0 +1,9 @@
+<div>
+  <h3>Messages</h3>
+  <ul *ngFor="let msg of messages">
+    <li>
+      <b>{ msg.sender }:</b> { msg.text } [ { msg.datetime | date: 'shortTime' }
+      ]
+    </li>
+  </ul>
+</div>
