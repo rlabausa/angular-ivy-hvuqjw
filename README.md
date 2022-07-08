@@ -17,4 +17,4 @@ Modify the code so that the following are true:
 
 ---
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-hvuqjw)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-hvuqjw?devToolsHeight=33&file=README.md)
